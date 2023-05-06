@@ -17,3 +17,4 @@
     }
 }
 </code></pre>
+![](https://github.com/yuvalitach/ZoomInSplashLibary/blob/master/20230506_191423.gif)
